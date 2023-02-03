@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ALX School
+=======
+echo "ALX School" 
+>>>>>>> origin/update_script
